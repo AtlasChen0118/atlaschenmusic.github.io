@@ -28,7 +28,7 @@ arXiv: https://arxiv.org/abs/2411.19462
 
 ### GitHub Repositories
 - **Noises Suitable for Weighted SVM**  
-  https://github.com/AtlasChen0118/Noises-Suitable-For-Weighted-SVM
+  [GitHub Repository](https://github.com/AtlasChen0118/Noises-Suitable-For-Weighted-SVM)
 
 <div style="margin-top: 1rem;">
   <iframe
@@ -39,8 +39,10 @@ arXiv: https://arxiv.org/abs/2411.19462
   </iframe>
 </div>
 
+---
+
 - **Grid Singer: A SuperCollider-Based Video Game**  
-  https://github.com/AtlasChen0118/Grid-Singer-A-SuperCollider-based-video-game
+  [GitHub Repository](https://github.com/AtlasChen0118/Grid-Singer-A-SuperCollider-based-video-game)
 
 
 ## Video Recordings
@@ -58,7 +60,20 @@ arXiv: https://arxiv.org/abs/2411.19462
 ## Audio Recordings
 
 ### Music
-- 
+- **Music Composition: W.H.A.T.?! (Whimsical Happy Afternoon Teatime?!)**  
+  [YouTube Link](https://www.youtube.com/watch?v=YIOlg5tu1eA)
+
+<div style="margin-top: 1rem;">
+  <iframe
+    width="100%"
+    height="166"
+    src="https://www.youtube.com/embed/YIOlg5tu1eA"
+    title="YouTube audio player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ### Algorithmic / Generated Sound
 - 
