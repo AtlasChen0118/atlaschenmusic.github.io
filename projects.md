@@ -66,7 +66,7 @@ arXiv: https://arxiv.org/abs/2411.19462
 <div style="margin-top: 1rem;">
   <iframe
     width="100%"
-    height="166"
+    height="400"
     src="https://www.youtube.com/embed/YIOlg5tu1eA"
     title="YouTube audio player"
     frameborder="0"
