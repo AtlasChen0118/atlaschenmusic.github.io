@@ -96,7 +96,7 @@ arXiv: https://arxiv.org/abs/2411.19462
     scrolling="no"
     frameborder="no"
     allow="autoplay"
-    src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1916825613%3Fsecret_token%3Ds-han7OnBZ6fw&color=%230055ff&auto_play=false&show_user=true&show_reposts=false">
+    src="[https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1916825613%3Fsecret_token%3Ds-han7OnBZ6fw&color=%230055ff&auto_play=false&show_user=true&show_reposts=false]">
   </iframe>
 </div>
 
