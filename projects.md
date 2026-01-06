@@ -96,7 +96,7 @@ arXiv: https://arxiv.org/abs/2411.19462
     scrolling="no"
     frameborder="no"
     allow="autoplay"
-    src="[[https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1916825613%3Fsecret_token%3Ds-han7OnBZ6fw&color=%230055ff&auto_play=false&show_user=true&show_reposts=false]](https://soundcloud.com/icari_lavendor/mnemostasis/s-han7OnBZ6fw)">
+    src="https://soundcloud.com/icari_lavendor/mnemostasis/s-han7OnBZ6fw?si=97e5e3301b99438e8230d19b0c8f8a55&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
   </iframe>
 </div>
 
