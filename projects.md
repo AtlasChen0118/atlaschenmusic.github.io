@@ -96,9 +96,10 @@ arXiv: https://arxiv.org/abs/2411.19462
     scrolling="no"
     frameborder="no"
     allow="autoplay"
-    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/icari_lavendor/mnemostasis/s-han7OnBZ6fw&color=%230055ff&auto_play=false&show_user=true&show_reposts=false">
+    src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%3Atracks%3A2242901921%3Fsecret_token%3Ds-han7OnBZ6fw&color=%23ff5500&auto_play=false&show_user=true&show_reposts=false&visual=true">
   </iframe>
 </div>
+
 
 ### Algorithmic / Generated Sound
 - 
