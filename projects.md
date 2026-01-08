@@ -13,6 +13,13 @@ Ramon I. García, Amit Krishnaiyer, Grace McCourt, and Arvind Murty*
 
 arXiv: https://arxiv.org/abs/2411.19462
 
+
+
+<p style="margin-top: 0.75em; font-size: 0.95em; line-height: 1.5;">
+I conducted an undergraduate research project with teammates on the on-line paintability of multipartite graphs, studying a setting of vertex-coloring games under dynamic adversary constraints. We explored optimal strategies when a graph is revealed sequentially. Through the project, we proposed an on-line scenario where optimal solution strategies could be found on extremizing the number of colors used in vertex coloring of certain characteristic graphs, where for each color a particular adverse constraint was given on a subset of vertices.
+</p>
+
+
 <div style="margin-top: 1rem;">
   <iframe
     src="https://arxiv.org/pdf/2411.19462.pdf"
@@ -30,6 +37,10 @@ arXiv: https://arxiv.org/abs/2411.19462
 - **Noises Suitable for Weighted SVM**  
   [GitHub Repository](https://github.com/AtlasChen0118/Noises-Suitable-For-Weighted-SVM)
 
+<p style="margin-top: 0.75em; font-size: 0.95em; line-height: 1.5;">
+This is a light-weighted Machine Learning based project that measures and classifies on-campus traffic noise I proposed under the cross-supervision of Prof. Derek Hoiem (CS 441 - Applied Machine Learning) and Prof. Carlos Ramírez (MUS 414 - Urban Soundscapes), where noise is recorded, processed and served as training material for a weighted SVM model that distinguish areas with continuous traffic on street with areas with frequent pull-overs. This work showcases my proficiency with Python, JupyterNotebook and specifically the librosa package.
+</p>
+
 <div style="margin-top: 1rem;">
   <iframe
     src="https://nbviewer.org/github/AtlasChen0118/Noises-Suitable-For-Weighted-SVM/blob/main/Code/Noise_Suitable_For_Weighted_SVM_A_Lightweight_ML_Model_on_Traffic_Noises.ipynb"
@@ -46,6 +57,9 @@ arXiv: https://arxiv.org/abs/2411.19462
 - **Grid Singer: A SuperCollider-Based Video Game**  
   [GitHub Repository](https://github.com/AtlasChen0118/Grid-Singer-A-SuperCollider-based-video-game)
 
+<p style="margin-top: 0.75em; font-size: 0.95em; line-height: 1.5;">
+Grid Singer is a 500-line SuperCollider-based video game project for the course Creative Audio Coding I inspired by the vintage game *Jetpack Joyride*, but where you shout into the microphone instead of holding the screen for character levitation. The louder you shout, the faster you ascend. Due to the nature of SuperCollider, it is not possible to embed the game directly on the website. Please click the embedded link above to my GitHub page for more information and code.
+</p>
 
 ## Video Recordings
 
